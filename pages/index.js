@@ -4,7 +4,7 @@ import { MainLayout } from '../layouts/MainLayout';
 const Home = () => {
   return (
    <>
-   hola
+   hola Inicio
    </>
   )
 }
